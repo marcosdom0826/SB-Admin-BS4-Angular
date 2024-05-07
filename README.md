@@ -6,7 +6,7 @@ This project is a port of the famous Free Admin Bootstrap Theme [SB Admin v8.0](
 
 Powered by [StartAngular](http://startangular.com/) & [StrapUI](http://strapui.com/)
 
-## [Demo](http://rawgit.com/start-angular/SB-Admin-BS4-Angular-6/master/dist/)
+## [Demo](http://rawgit.com/marcosdom0826/SB-Admin-BS4-Angular/master/dist/)
 
 ## [SB Admin Material version](https://github.com/start-javascript/sb-admin-material)
 
@@ -36,8 +36,8 @@ Provides fast, reliable and extensible starter for the development of Angular pr
 In order to start the project use:
 
 ```bash
-$ git clone https://github.com/start-angular/SB-Admin-BS4-Angular-8.git
-$ cd SB-Admin-BS4-Angular-8
+$ git clone https://github.com/marcosdom0826/SB-Admin-BS4-Angular.git
+$ cd SB-Admin-BS4-Angular
 # install the project's dependencies
 $ npm install
 # watches your files and uses livereload by default run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
